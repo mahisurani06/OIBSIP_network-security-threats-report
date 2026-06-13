@@ -36,9 +36,12 @@ It also discusses:
 
 
 
-\## Author
+## Author
 
 
 
 Mahi Surani
 
+GitHub: https://github.com/mahisurani06
+
+LinkedIn: https://www.linkedin.com/in/mahi-surani-9bab5333b/
